@@ -1,0 +1,17 @@
+Content\tetris block.xnb
+Content\block.xnb
+Content\noshadowleftchip.xnb
+Content\noshadowrightchip.xnb
+Content\noshadowstaticchip.xnb
+Content\noshadowupchip.xnb
+Content\Quoridorboard.xnb
+Content\Quoridorboardpic.xnb
+Content\reallifequoridorite.xnb
+Content\SpriteFont1.xnb
+Content\SpriteFont2.xnb
+Content\SpriteFont3.xnb
+Content\SpriteFont4.xnb
+Content\Turkish March_part.xnb
+Content\Turkish March_part.wma
+Content\Liebestraum.xnb
+Content\Liebestraum.wma

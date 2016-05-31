@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quoridor", "Quoridor\Quoridor\Quoridor.csproj", "{04CC7369-37A6-416C-AC4D-1FC7DCFD761D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "QuoridorContent", "Quoridor\QuoridorContent\QuoridorContent.contentproj", "{21D8A763-638A-43AD-BECD-D1B9971A80DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CC7369-37A6-416C-AC4D-1FC7DCFD761D}.Debug|x86.ActiveCfg = Debug|x86
+		{04CC7369-37A6-416C-AC4D-1FC7DCFD761D}.Debug|x86.Build.0 = Debug|x86
+		{04CC7369-37A6-416C-AC4D-1FC7DCFD761D}.Release|x86.ActiveCfg = Release|x86
+		{04CC7369-37A6-416C-AC4D-1FC7DCFD761D}.Release|x86.Build.0 = Release|x86
+		{21D8A763-638A-43AD-BECD-D1B9971A80DC}.Debug|x86.ActiveCfg = Debug|x86
+		{21D8A763-638A-43AD-BECD-D1B9971A80DC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
